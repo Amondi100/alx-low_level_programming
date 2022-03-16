@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- *	* description: main - prints out a string to stdout
- *	* Return: 0 if success
+ * description: printf() displays the string inside quotation
+ * Return: 0 if success
 */
 int main(void)
 {
